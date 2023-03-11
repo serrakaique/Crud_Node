@@ -1,0 +1,14 @@
+{
+  "name": "crud_node",
+  "version": "1.0.0",
+  "description": "CRUD em NODE",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kaique Luiz Nascimento Serra",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
